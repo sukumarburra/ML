@@ -1,5 +1,8 @@
+# Set User name and email 
 sudo apt-get install git-core    ---> optional
+
 git config --global user.name    "Sukumar Burra"
+
 git config --global user.email   "sukumar.leo@gmail.com"
   
  # In order to commit, you should configure your editor of choice (vi in this example)
